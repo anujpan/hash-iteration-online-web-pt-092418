@@ -8,4 +8,8 @@
 
 def select_winner(passengers)
   winner = ""
+  
+  passengers.each do |suite, name|
+    if
+  end
 end
